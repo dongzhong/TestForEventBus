@@ -23,4 +23,9 @@
         android:layout_height="wrap_content"
         android:text="打开第二个Activity"/>
 
+    <TextView
+        android:id="@+id/textview_main_activity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
 </LinearLayout>
